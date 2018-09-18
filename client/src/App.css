@@ -1,0 +1,28 @@
+body {
+  color: #e4e7ea;
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+  height: 300px;
+}
+
+.minHeight {
+  height: 300px;
+}
+
+.bg-dark {
+  text-shadow: #000 1px 1px 0px;
+  background-color: #3a4149 !important;
+  border-color: #23282c !important;
+}
+
+#nowPlayingWrapper .fieldWrapper {
+  margin: 0px 10px;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+.coverArt {
+  width: 300px;
+  height: 300px;
+}
